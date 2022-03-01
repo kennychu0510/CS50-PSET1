@@ -1,7 +1,7 @@
 # CS50-PSET1
-Cash
-Credit
-Hello
-Mario_less
-Mario_more
+Cash <br>
+Credit <br>
+Hello <br>
+Mario_less <br>
+Mario_more <br>
 Population
